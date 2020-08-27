@@ -1,4 +1,3 @@
 bienvenue dans ce beau fichier.
-<<<<<<< HEAD
 Je suis dans devWork
 
