@@ -1,2 +1,4 @@
 bienvenue dans ce beau fichier.
-Je suis dans devA
+<<<<<<< HEAD
+Je suis dans devWork
+
